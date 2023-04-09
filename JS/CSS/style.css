@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+    
+}
+
+body{
+    background-color: darkred;
+    text-align: center;
+    color: wheat;
+    opacity: 80%
+    }
+    
+#message-el{
+    font-style: italic
+}
+
+#but{
+    color: darkred;
+    background-color: black;
+    border: 5px solid black;
+    transform: translate(70px)
+}
+#but2{
+     color: darkred;
+    background-color: black;
+    border: 5px solid black;
+    transform: translate(-50px,50px)
+}
+    
+    
